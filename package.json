@@ -7,7 +7,7 @@
   "source": "src/index",
   "scripts": {
     "test": "jest",
-    "lint": "eslint \"**/*.{js,ts,tsx}\""
+    "lint": "eslint \"**/*.{js,jsx,ts,tsx}\""
   },
   "repository": {
     "type": "git",
