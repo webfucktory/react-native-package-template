@@ -30,5 +30,7 @@ module.exports = {
     'react',
     'react-native',
   ],
-  rules: {},
+  rules: {
+    'react/react-in-jsx-scope': 'off',
+  },
 };
